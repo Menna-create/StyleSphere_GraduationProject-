@@ -10,3 +10,5 @@ StyleSphere is a revolutionary fashion app designed to enhance your shopping exp
 4-Text Search: Find exactly what you’re looking for with our efficient text search functionality, allowing you to quickly locate specific items or browse through categories with ease.
 
 Discover a new and innovative way to shop for fashion with StyleSphere.
+
+You will find out all AI Features found in the app
